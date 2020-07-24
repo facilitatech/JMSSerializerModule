@@ -5,9 +5,9 @@ namespace JMSSerializerModule\Service;
 use Application\Module;
 use JMS\Serializer\Handler\DateHandler;
 use Metadata\Driver\FileLocator;
-use Zend\ModuleManager\ModuleManager;
-use Zend\ServiceManager\FactoryInterface;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use Laminas\ModuleManager\ModuleManager;
+use Laminas\ServiceManager\FactoryInterface;
+use Laminas\ServiceManager\ServiceLocatorInterface;
 
 /**
  * @author Martin Parsiegla <martin.parsiegla@gmail.com>

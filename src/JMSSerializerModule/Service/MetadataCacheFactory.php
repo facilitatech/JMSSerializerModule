@@ -4,7 +4,7 @@ namespace JMSSerializerModule\Service;
 
 use Metadata\Cache\FileCache;
 use RuntimeException;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use Laminas\ServiceManager\ServiceLocatorInterface;
 
 /**
  * @author Martin Parsiegla <martin.parsiegla@gmail.com>

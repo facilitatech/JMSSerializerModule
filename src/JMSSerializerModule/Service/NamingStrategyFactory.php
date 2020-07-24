@@ -3,7 +3,7 @@
 namespace JMSSerializerModule\Service;
 
 use JMS\Serializer\Naming\CacheNamingStrategy;
-use Zend\ServiceManager\ServiceLocatorInterface;
+use Laminas\ServiceManager\ServiceLocatorInterface;
 
 /**
  * @author Martin Parsiegla <martin.parsiegla@gmail.com>
